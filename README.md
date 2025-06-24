@@ -1,10 +1,11 @@
-[![Discord](https://cdn.modrinth.com/data/cached_images/15652362bb920cf6d6bbd5ba816f5c8c0d7ee2f4.png)](https://discord.gg/DxsxVhyahd)
+#
+![LOGO](https://cdn.modrinth.com/data/cached_images/009eb17541efb09161edb517134973e4edd27ec2_0.webp)
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-gray?logo=modrinth)](https://modrinth.com/modpack/nicklyoptimized)
+[![Discord](https://cdn.modrinth.com/data/cached_images/e641688f3a246016a9ea56ed1feb269d64273936.png)](https://discord.gg/DxsxVhyahd) [![GitHub](https://cdn.modrinth.com/data/cached_images/345bd186132bd727d22bae25be1beab638650dd6.png)](https://github.com/nick9509/nickly-optimized) [![Modrinth](https://cdn.modrinth.com/data/cached_images/a6b1b9b2da77f5b08e4b2cd03a23f74dc67d164e.png)](https://modrinth.com/modpack/nicklyoptimized) [![Wiki](https://cdn.modrinth.com/data/cached_images/a925d7e7177db734a2bc56d7e9b25c003e10c716_0.webp)](https://github.com/nick9509/nickly-optimized/wiki)
+
 [![Release](https://img.shields.io/github/v/release/nick9509/nickly-optimized?include_prereleases)](https://github.com/nick9509/nickly-optimized/releases)
 [![License](https://img.shields.io/github/license/nick9509/nickly-optimized)](LICENSE.md)
 
-![LOGO](https://cdn.modrinth.com/data/cached_images/009eb17541efb09161edb517134973e4edd27ec2_0.webp)
 # 📙 Main information
 This modpack was created for people who need a bit of QoL-mods with better optimization and OF parity. As OptiFine, but much better and faster.
 # ❓ What about FPS?
