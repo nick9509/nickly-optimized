@@ -1,7 +1,7 @@
 [![Discord](https://cdn.modrinth.com/data/cached_images/15652362bb920cf6d6bbd5ba816f5c8c0d7ee2f4.png)](https://discord.gg/DxsxVhyahd)
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-gray?logo=modrinth)](https://modrinth.com/modpack/nicklyoptimized)
-[![Release](https://img.shields.io/github/v/release/nick9509/nickly-optimized?include_prereleases)]([https://github.com/Tuinity/Moonrise](https://github.com/nick9509/nickly-optimized)/releases)
+[![Release](https://img.shields.io/github/v/release/nick9509/nickly-optimized?include_prereleases)]
 [![License](https://img.shields.io/github/license/nick9509/nickly-optimized)](LICENSE.md)
 
 ![LOGO](https://cdn.modrinth.com/data/cached_images/009eb17541efb09161edb517134973e4edd27ec2_0.webp)
